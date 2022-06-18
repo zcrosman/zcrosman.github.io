@@ -10,7 +10,7 @@ math: false
 mermaid: true
 ---
 
-TryHackMe Room: [Attactive Directory](tryhackme.com/room/attacktivedirectory)
+TryHackMe Room: [Attactive Directory](https://www.tryhackme.com/room/attacktivedirectory)
 
 
 ## Initial Enumeration
