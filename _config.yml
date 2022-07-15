@@ -49,7 +49,7 @@ social:
     - https://github.com/zcrosman       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/zachcrosman
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:  dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ''
+img_cdn: 'https://zcrosman.github.io'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/images/dog.png'
