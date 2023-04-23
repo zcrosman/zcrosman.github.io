@@ -6,10 +6,10 @@
   type: linkedin
   icon: 'fab fa-linkedin' 
   url:  'https://www.linkedin.com/in/zachcrosman/' 
--
-  type: youtube
-  icon: 'fab fa-youtube'
-  url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+# -
+#   type: youtube
+#   icon: 'fab fa-youtube'
+#   url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 -
   type: rss
   icon: 'fas fa-rss'
