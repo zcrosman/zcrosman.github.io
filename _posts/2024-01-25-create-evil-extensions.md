@@ -1,7 +1,7 @@
 ---
 title: Create Evil Firefox Extensions With JS-Tap Part 1
 author: Zach Crosman
-date: 2023-12-01 18:32:00 -0500
+date: 2024-01-25 18:32:00 -0500
 categories: [Pentesting, Tutorial, Red Team]
 tags: [extensions, javascript, injection, firefox]
 image:
